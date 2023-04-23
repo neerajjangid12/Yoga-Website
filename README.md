@@ -1,3 +1,5 @@
+# Yoga Website
+
 ![banner](https://user-images.githubusercontent.com/97469459/233833644-7415586b-19fc-4f91-982b-0008b7716148.jpg)
 This is the banner of my website.
 website have a scrollable Navbar.
